@@ -7,14 +7,7 @@
 TEXT_LOCATION_FLASH_PRAGMA
 KEEP extern const uint32_t indicesGb[] TEXT_LOCATION_FLASH_ATTRIBUTE;
 
-// Remap local strings
-TEXT_LOCATION_FLASH_PRAGMA
-KEEP extern const touchgfx::Unicode::UnicodeChar textsGb[] TEXT_LOCATION_FLASH_ATTRIBUTE = {
-    0x44, 0x52, 0x49, 0x56, 0x45, 0x52, 0x20, 0x45, 0x43, 0x55, 0x0, // @0 "DRIVER ECU"
-    0x43, 0x41, 0x4e, 0x2d, 0x46, 0x44, 0x31, 0x0, // @11 "CAN-FD1"
-    0x43, 0x41, 0x4e, 0x2d, 0x46, 0x44, 0x32, 0x0 // @19 "CAN-FD2"
-};
-
+// Remap all strings
 TEXT_LOCATION_FLASH_PRAGMA
 KEEP extern const uint32_t indicesGb[] TEXT_LOCATION_FLASH_ATTRIBUTE = {
     0,  // T___SINGLEUSE_9GXB: "DRIVER ECU"
