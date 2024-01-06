@@ -1,0 +1,5 @@
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:92:5:main	8	static,ignoring_inline_asm
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:205:6:SystemClock_Config	128	static
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:272:6:PeriphCommonClock_Config	208	static
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:306:6:HAL_TIM_PeriodElapsedCallback	16	static
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:323:6:Error_Handler	4	static,ignoring_inline_asm

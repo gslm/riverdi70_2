@@ -1,0 +1,4 @@
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/spi.c:31:6:MX_SPI1_Init	2
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/spi.c:73:6:MX_SPI2_Init	2
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/spi.c:115:6:HAL_SPI_MspInit	5
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/spi.c:216:6:HAL_SPI_MspDeInit	3

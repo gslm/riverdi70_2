@@ -1,0 +1,5 @@
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:92:5:main	4
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:205:6:SystemClock_Config	5
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:272:6:PeriphCommonClock_Config	2
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:306:6:HAL_TIM_PeriodElapsedCallback	2
+C:/Users/guilhermes/Documents/marcopolo/riverdi70_2/CM7/Core/Src/main.c:323:6:Error_Handler	1
